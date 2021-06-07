@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mayank Gupta, @MayankGupta-dev08
 - 🌍 I am from Delhi, India
 - 👀 I’m interested in machine learning and data science
-- 🌱 I’m currently learning pyhton and c++
+- 🌱 I’m currently learning python and c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me --> mgce20710@student.nitw.ac.in
 
