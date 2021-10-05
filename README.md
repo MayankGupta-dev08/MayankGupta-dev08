@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Mayank Gupta, @MayankGupta-dev08
 - 🌍 I am from Delhi, India
-- 👀 I’m interested in machine learning and data science
-- 🌱 I’m currently learning Web Development
-- 👨‍💻 I'm skilled in C++, python, java, HTML, CSS
+- 👀 I’m interested in Web Development, Machine learning and Data science
+- 🌱 I’m currently learning Backend development
+- 👨‍💻 I'm skilled in C++, python, Java, HTML, CSS, JavaScript, NodeJs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me --> ce.mayank8@gmail.com | mgce20710@student.nitw.ac.in
 
