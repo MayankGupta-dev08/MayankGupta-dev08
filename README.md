@@ -8,7 +8,7 @@
 
 ## 👨🏻‍💻 About Me
 
-- 👋 Hi, I’m Mayank Gupta, @MayankGupta-dev08
+- 👋 Hi, I’m Mayank Gupta, **@MayankGupta-dev08**
 - 🌍 I am from New Delhi, India
 - 👨‍💻 Skills: **C++, python, Java, HTML, CSS, JavaScript, NodeJs**
 - 👀 I’m interested in **Web Development**
