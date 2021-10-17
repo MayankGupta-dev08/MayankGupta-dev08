@@ -55,11 +55,11 @@
 
 <br/>
 <a href="https://github.com/MayankGupta-dev08/github-readme-stats">
-    <img align="left" alt="Mayank Gupta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MayankGupta-dev08&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    <img alt="Mayank Gupta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MayankGupta-dev08&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
 
 <a href="https://github.com/MayankGupta-dev08/github-readme-stats">
-    <img align="right" alt="Mayank Gupta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankGupta-dev08&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    <img alt="Mayank Gupta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankGupta-dev08&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
 <br/>
     
