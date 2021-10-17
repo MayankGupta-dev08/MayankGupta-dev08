@@ -30,7 +30,7 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+<!--     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a> -->
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
     <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> </a>
     <a href="https://www.sublimetext.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/sublime-text.png"/> </a>
@@ -47,18 +47,15 @@
 
 <p align="center">
     <a href="https://github.com/MayankGupta-dev08/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mayank Gupta's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MayankGupta-dev08&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mayank Gupta's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MayankGupta-dev08&theme=react&hide_border=true&stroke=0000&background=0D1117"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/MayankGupta-dev08/github-readme-stats"><img alt="Mayank Gupta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MayankGupta-dev08&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/MayankGupta-dev08/github-readme-stats"><img alt="Mayank Gupta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankGupta-dev08&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-<!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
- -->
+    <a href="https://github.com/MayankGupta-dev08/github-readme-stats"><img align="left" alt="Mayank Gupta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MayankGupta-dev08&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/MayankGupta-dev08/github-readme-stats"><img align="right" alt="Mayank Gupta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankGupta-dev08&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <br/>
 <br/>
@@ -68,8 +65,8 @@
 <!-- ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/vansh-gupta4/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/vanshgupta_4/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/mayank-gupta8/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/mayankgupta8/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
     
 </p> -->
 
