@@ -9,7 +9,7 @@
 ## 👨🏻‍💻 About Me
 
 - 👋 Hi, I’m Mayank Gupta, @MayankGupta-dev08
-- 🌍 I am from Delhi, India
+- 🌍 I am from New Delhi, India
 - 👨‍💻 Skills: **C++, python, Java, HTML, CSS, JavaScript, NodeJs**
 - 👀 I’m interested in **Web Development**
 - 🌱 I’m currently learning **Data Structure and Algorithms**
@@ -21,6 +21,7 @@
 
 <p align="center"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://img.icons8.com/color/100/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
