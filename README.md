@@ -45,14 +45,14 @@
 
 <br/>
 
+## 📊 My Github Stats
+
 <p align="center">
     <a href="https://github.com/MayankGupta-dev08/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mayank Gupta's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MayankGupta-dev08&theme=react&hide_border=true&stroke=0000&background=0D1117"/>
     </a>
     <p align="center">My Github streak stats and contribution history</p>
 </p>
-
-## 📊 My Github Stats
 
 <br/>
 
