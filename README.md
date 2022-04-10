@@ -16,6 +16,7 @@
 - 😍 I like to play **games** and read **books**.
 - ⚡ Fun fact, **I am a knowledge seeker who loves learning new things (#Computer)**
 - 📫 How to reach me --> ce.mayank8@gmail.com
+- 📊 Some stats --> https://www.hackerrank.com/dev_mayank8
 <br/>
 
 ## 🚀 Languages and Tools:
