@@ -1,8 +1,8 @@
-<a href="#"><img width="75%" height="auto" style="display: block; width: 60%; margin-left: auto; margin-right: auto;" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" height="175px"/><a/>
-
-<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Mayank Gupta</h1>
+<p align="center">
+    <a href="#"><img width="50%" height="auto" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/><a/>
+    <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> Hi, I'm Mayank Gupta</h1>
+</p>
 <h3 align="center" color="blue">I'm a passionate Full Stack Developer from India.</h3>
-
 
 <br/>
 
@@ -10,9 +10,9 @@
 
 - 👋 Hi, I’m Mayank Gupta, **@MayankGupta-dev08**
 - 🌍 I am from New Delhi, India
-- 👨‍💻 Skills: **C++, python, Java, HTML, CSS, JavaScript, NodeJs**
+- 👨‍💻 Skills: **C++, Java, HTML, CSS, JavaScript, NodeJs, SQL, Python**
 - 🔭 I’m interested in **Web Development**
-- 🌱 I’m currently learning **Data Structure and Algorithms**
+- 🌱 I’m currently practicing **DSA, JS** and learning **RectJS**
 - 😍 I like to play **games** and read **books**.
 - ⚡ Fun fact, **I am a knowledge seeker who loves learning new things (#Computer)**
 - 📫 How to reach me --> ce.mayank8@gmail.com
@@ -36,7 +36,7 @@
     <a href="https://www.sublimetext.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/sublime-text.png"/> </a>
     <a href="https://git-scm.com/" target="_blank">  <img src="https://img.icons8.com/color/48/000000/git.png"/></a>
 <!--     <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="48" height="48"/> </a>  -->
-<!--     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="48" height="48"/> </a>  -->
+    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="48" height="48"/> </a> 
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="48"/> </a> 
     <!--     <a href="https://figma.com" target="_blank">  <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/></a> -->
