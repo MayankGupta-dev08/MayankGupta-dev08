@@ -49,22 +49,29 @@
     <a href="https://github.com/MayankGupta-dev08/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mayank Gupta's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MayankGupta-dev08&theme=react&hide_border=true&stroke=0000&background=0D1117"/>
     </a>
+    <p align="center">My Github streak stats and contribution history</p>
 </p>
 
 ## 📊 My Github Stats
 
 <br/>
-<a href="https://github.com/MayankGupta-dev08/github-readme-stats">
-    <img alt="Mayank Gupta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MayankGupta-dev08&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
 
-<a href="https://github.com/MayankGupta-dev08/github-readme-stats">
+<p align="center">
+    <a href="https://github.com/MayankGupta-dev08/github-readme-stats">
+    <img alt="Mayank Gupta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MayankGupta-dev08&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <p align="center">My Github commits and pull requests statistics</p>
+</p>
+
+<hr/>
+
+<p align="center">
+    <a href="https://github.com/MayankGupta-dev08/github-readme-stats">
     <img alt="Mayank Gupta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankGupta-dev08&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
-<br/>
+    </a>
+    <p align="center">Different programming languages used by me 🤘</p>
+</p>
     
-<br/>
-<br/>
+<hr/>
     
 <a href="https://github.com/MayankGupta-dev08/github-readme-activity-graph">
     <img alt="Mayank Gupta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MayankGupta-dev08&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
