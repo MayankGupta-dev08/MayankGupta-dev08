@@ -1,9 +1,9 @@
 <p align="center">
     <a href="#"><img width="50%" height="auto" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/><a/>
-    <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> Hi, I'm Mayank Gupta</h1>
+    <h1 align="center">Hi, I'm Mayank Gupta</h1>
+    <h3 align="center" color="blue">I'm a passionate Full Stack Developer from India.</h3>
 </p>
-<h3 align="center" color="blue">I'm a passionate Full Stack Developer from India.</h3>
-
+    
 <br/>
 
 ## 👨🏻‍💻 About Me
