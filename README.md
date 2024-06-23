@@ -3,51 +3,54 @@
     <h1 align="center">Hi, I'm Mayank Gupta</h1>
     <h3 align="center" color="blue">Passionate Backend Developer from India <img src="https://img.icons8.com/?size=100&id=32584&format=png&color=000000" width="30" height="30"/> </h3>
 </p>
-    
+
 <br/>
 
 ## 👨🏻‍💻 About Me
 
-- 👋 Hi, I’m Mayank Gupta, **@MayankGupta-dev08**
+- 👋 Hi, I’m Mayank Gupta, **[@MayankGupta-dev08](https://github.com/MayankGupta-dev08)**
 - 🌍 I am from New Delhi, India
 - 🔭 I’m interested in **Backend Development**
-- 👨‍💻 Skills: **Java, Git, Spring & Spring Boot, Docker, Kubernetes, SQL, MongoDb, Kafka, Microservices, Linux, AWS**
+- 👨‍💻 Skills: **Java, Git, Spring & Spring Boot, Docker, Kubernetes, SQL, MongoDB, Kafka, Microservices, Linux, AWS**
 - 🌱 I’m currently sharpening my **Backend Development skills**
 - 😍 I like to play **games** and read **books**.
-- ⚡ Fun fact, **I am a knowledge seeker who loves learning new things (#Computer)**
-- 📫 How to reach me --> ce.mayank8@gmail.com
-- 📊 Some stats --> https://www.hackerrank.com/dev_mayank8
+- ⚡ Fun fact: **I am a knowledge seeker who loves learning new things (#Computer)**
+- 📫 How to reach me: **[ce.mayank8@gmail.com](mailto:ce.mayank8@gmail.com)**
+- 📊 Some stats: **[HackerRank Profile](https://www.hackerrank.com/dev_mayank8)**
+
 <br/>
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools
 
 <p align="center"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="48" height="48"/> </a>
-    <a href="https://spring.io/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="spring boot" width="48" height="48"/> </a>
-    <a href="https://git-scm.com/" target="_blank">  <img src="https://img.icons8.com/color/48/000000/git.png"/></a>
-    <a href="https://maven.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg" alt="maven" width="48" height="48"/> </a>
-    <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="48" height="48"/> </a>
-    <a href="https://kubernetes.io/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000" alt="kubernetes" width="48" height="48"/> </a>
-    <a href="https://chatgpt.com/gpts" target="_blank"> <img src="https://img.icons8.com/?size=100&id=FBO05Dys9QCg&format=png&color=000000" alt="gpt" width="48" height="48"/> </a>
-    <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> </a>
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
-    <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="48" height="48"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="48"/> </a> 
-    <a href="https://www.linux.org/" target="_blank">  <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="linux" width="48" height="48"/></a>
-    <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="48" height="48"/> </a>
-    <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
-<!--     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>  -->
-<!--     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>  -->
-<!--     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>  -->
-<!--     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>  -->
-<!--     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>     -->
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="48" height="48"/> </a>
+    <a href="https://spring.io/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="Spring Boot" width="48" height="48"/> </a>
+    <a href="https://git-scm.com/" target="_blank">  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48" height="48"/> </a>
+    <a href="https://maven.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg" alt="Maven" width="48" height="48"/> </a>
+    <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="48" height="48"/> </a>
+    <a href="https://kubernetes.io/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000" alt="Kubernetes" width="48" height="48"/> </a>
+    <a href="https://chatgpt.com/gpts" target="_blank"> <img src="https://img.icons8.com/?size=100&id=FBO05Dys9QCg&format=png&color=000000" alt="ChatGPT" width="48" height="48"/> </a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" width="48" height="48"/> </a>
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="48" height="48"/> </a>
+    <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="48" height="48"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="48" height="48"/> </a>
+    <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="48" height="48"/> </a>
+    <a href="https://www.linux.org/" target="_blank">  <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="Linux" width="48" height="48"/> </a>
+    <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="48" height="48"/> </a>
+    <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="48" height="48"/> </a>
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/> </a>
 </p>
 
 <br/>
 
 ## 📊 My Github Stats
+
+<p align="center">
+    <a href="https://github.com/MayankGupta-dev08/github-readme-stats">
+    <img alt="Mayank Gupta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankGupta-dev08&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    </a>
+    <p align="center">Different programming languages used by me 🤘</p>
+</p>
 
 <p align="center">
     <a href="https://github.com/MayankGupta-dev08/github-readme-streak-stats">
@@ -56,31 +59,17 @@
     <p align="center">My Github streak stats and contribution history</p>
 </p>
 
-<br/>
-
 <p align="center">
     <a href="https://github.com/MayankGupta-dev08/github-readme-stats">
-    <img alt="Mayank Gupta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MayankGupta-dev08&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <img alt="Mayank Gupta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MayankGupta-dev08&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    </a>
     <p align="center">My Github commits and pull requests statistics</p>
 </p>
-
-<hr/>
-
-<p align="center">
-    <a href="https://github.com/MayankGupta-dev08/github-readme-stats">
-    <img alt="Mayank Gupta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankGupta-dev08&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-    </a>
-    <p align="center">Different programming languages used by me 🤘</p>
-</p>
-    
-<hr/>
-    
-<a href="https://github.com/MayankGupta-dev08/github-readme-activity-graph">
-    <img alt="Mayank Gupta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MayankGupta-dev08&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-</a>
 
 <br/>
 <br/>
 
 ## ❤ Views
-   ![](https://komarev.com/ghpvc/?username=MayankGupta-dev08)
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=MayankGupta-dev08" alt="Profile Views"/>
+</p>
