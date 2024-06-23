@@ -1,24 +1,24 @@
 <p align="center">
-    <a href="#"><img width="50%" height="auto" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/><a/>
+    <a href="#"><img width="50%" height="auto" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/></a>
     <h1 align="center">Hi, I'm Mayank Gupta</h1>
-    <h3 align="center" color="blue">Passionate Backend Developer from India <img src="https://img.icons8.com/?size=100&id=32584&format=png&color=000000" width="30" height="30"/> </h3>
+    <h3 align="center" color="blue">Passionate Backend Developer from India <img src="https://img.icons8.com/?size=100&id=32584&format=png&color=000000" width="30" height="30"/></h3>
 </p>
 
-<br/>
+---
 
 ## 👨🏻‍💻 About Me
 
 - 👋 Hi, I’m Mayank Gupta, **[@MayankGupta-dev08](https://github.com/MayankGupta-dev08)**
-- 🌍 I am from New Delhi, India
-- 🔭 I’m interested in **Backend Development**
-- 👨‍💻 Skills: **Java, Git, Spring & Spring Boot, Docker, Kubernetes, SQL, MongoDB, Kafka, Microservices, Linux, AWS**
-- 🌱 I’m currently sharpening my **Backend Development skills**
-- 😍 I like to play **games** and read **books**.
-- ⚡ Fun fact: **I am a knowledge seeker who loves learning new things (#Computer)**
-- 📫 How to reach me: **[ce.mayank8@gmail.com](mailto:ce.mayank8@gmail.com)**
-- 📊 Some stats: **[HackerRank Profile](https://www.hackerrank.com/dev_mayank8)**
+- 🌍 From New Delhi, India
+- 🔭 Backend Development Enthusiast
+- 👨‍💻 Skilled in **Java, Git, Spring & Spring Boot, Docker, Kubernetes, SQL, MongoDB, Kafka, Microservices, Linux, AWS**
+- 🌱 Currently honing my **Backend Development skills**
+- 🎮 Gaming and 📚 reading books
+- ⚡ Fun fact: **I'm a knowledge seeker who loves learning new things (#Computer)**
+- 📫 Contact me: **[ce.mayank8@gmail.com](mailto:ce.mayank8@gmail.com)**
+- 📊 Stats: **[HackerRank Profile](https://www.hackerrank.com/dev_mayank8)**
 
-<br/>
+---
 
 ## 🚀 Languages and Tools
 
@@ -41,33 +41,29 @@
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/> </a>
 </p>
 
-<br/>
+---
 
 ## 📊 My Github Stats
 
-<p align="center">
+<div align="center">
     <a href="https://github.com/MayankGupta-dev08/github-readme-stats">
-    <img alt="Mayank Gupta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankGupta-dev08&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+        <img alt="Mayank Gupta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankGupta-dev08&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
-    <p align="center">Different programming languages used by me 🤘</p>
-</p>
-
-<p align="center">
+    <br/>
+    <p>Different programming languages used by me 🤘</p>
     <a href="https://github.com/MayankGupta-dev08/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mayank Gupta's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MayankGupta-dev08&theme=react&hide_border=true&stroke=0000&background=0D1117"/>
     </a>
-    <p align="center">My Github streak stats and contribution history</p>
-</p>
-
-<p align="center">
+    <br/>
+    <p>My Github streak stats and contribution history</p>
     <a href="https://github.com/MayankGupta-dev08/github-readme-stats">
-    <img alt="Mayank Gupta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MayankGupta-dev08&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+        <img alt="Mayank Gupta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MayankGupta-dev08&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
-    <p align="center">My Github commits and pull requests statistics</p>
-</p>
+    <br/>
+    <p>My Github commits and pull requests statistics</p>
+</div>
 
-<br/>
-<br/>
+---
 
 ## ❤ Views
 <p align="center">
