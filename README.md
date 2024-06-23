@@ -8,11 +8,11 @@
 
 ## 👨🏻‍💻 About Me
 
-- 👋 Hi, I’m Mayank Gupta, **@MayankGupta-dev08**
+- 👋 Hi, I’m Mayank Gupta, **@MayankGupta-dev08** [Passionate Backend Developer]
 - 🌍 I am from New Delhi, India
-- 👨‍💻 Skills: **C++, Java, HTML, CSS, JavaScript, NodeJs, SQL, Python**
-- 🔭 I’m interested in **Web Development**
-- 🌱 I’m currently practicing **DSA, JS** and learning **RectJS**
+- 👨‍💻 Skills: **Java, Git, Spring & Spring Boot, Docker, Kubernetes, SQL, MongoDb, Kafka, Microservices, Linux, AWS**
+- 🔭 I’m interested in **Backend Development**
+- 🌱 I’m currently sharpening my **Backend Development skills**
 - 😍 I like to play **games** and read **books**.
 - ⚡ Fun fact, **I am a knowledge seeker who loves learning new things (#Computer)**
 - 📫 How to reach me --> ce.mayank8@gmail.com
@@ -22,7 +22,10 @@
 ## 🚀 Languages and Tools:
 
 <p align="center"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="48" height="48"/> </a>
+    <a href="https://spring.io/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="spring boot" width="48" height="48"/> </a>
+<!--     <a href="https://spring.io/" target="_blank"> <img src="" alt="spring boot" width="48" height="48"/> </a> -->
+    <a href="https://spring.io/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=FBO05Dys9QCg&format=png&color=000000" alt="gpt" width="48" height="48"/> </a>
     <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
 <!--     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="48"/> </a> -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
@@ -30,18 +33,18 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-<!--     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>    -->
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
 <!--     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a> -->
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
     <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> </a>
     <a href="https://www.sublimetext.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/sublime-text.png"/> </a>
     <a href="https://git-scm.com/" target="_blank">  <img src="https://img.icons8.com/color/48/000000/git.png"/></a>
-<!--     <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="48" height="48"/> </a>  -->
+    <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="48" height="48"/> </a> 
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="48" height="48"/> </a> 
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="48"/> </a> 
-    <!--     <a href="https://figma.com" target="_blank">  <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/></a> -->
-    <!--     <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="48" height="48"/> </a> -->
+    <a href="https://www.linux.org/" target="_blank">  <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="linux" width="48" height="48"/></a>
+    <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="48" height="48"/> </a>
 </p>
 
 <br/>
