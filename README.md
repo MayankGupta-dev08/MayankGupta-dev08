@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="#"><img width="50%" height="auto" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/></a>
+    <a href="#"><img width="60%" height="auto" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/></a>
     <h1 align="center">Hi, I'm Mayank Gupta</h1>
     <h3 align="center" color="blue">Passionate Backend Developer from India <img src="https://img.icons8.com/?size=100&id=32584&format=png&color=000000" width="30" height="30"/></h3>
 </p>
