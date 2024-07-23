@@ -16,7 +16,10 @@
 - 🎮 Gaming and 📚 reading books
 - ⚡ Fun fact: **I'm a knowledge seeker who loves learning new things (#Computer)**
 - 📫 Contact me: **[ce.mayank8@gmail.com](mailto:ce.mayank8@gmail.com)**
-- 📊 Stats: **[HackerRank Profile](https://www.hackerrank.com/dev_mayank8)**
+- 📊 Stats:
+    - **[Leetcode Profile](https://leetcode.com/u/MayankGupta-dev08/)**
+    - **[GFG Profile](https://www.geeksforgeeks.org/user/cemayank8/)**
+    - **[HackerRank Profile](https://www.hackerrank.com/dev_mayank8)**
 
 ---
 
