@@ -16,10 +16,37 @@
 - 🎮 Gaming and 📚 reading books
 - ⚡ Fun fact: **I'm a knowledge seeker who loves learning new things (#Computer)**
 - 📫 Contact me: **[ce.mayank8@gmail.com](mailto:ce.mayank8@gmail.com)**
-- 📊 Stats:
-    - **[Leetcode Profile](https://leetcode.com/u/MayankGupta-dev08/)**
-    - **[GFG Profile](https://www.geeksforgeeks.org/user/cemayank8/)**
-    - **[HackerRank Profile](https://www.hackerrank.com/dev_mayank8)**
+
+---
+
+## 📊 Profile Links
+
+<div align="center">
+    <table>
+        <tr>
+            <td align="center" style="padding: 10px;">
+                <a href="https://leetcode.com/u/MayankGupta-dev08/" target="_blank">
+                    <img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" alt="Leetcode" width="50" height="50"/>
+                </a>
+            </td>
+            <td align="center" style="padding: 10px;">
+                <a href="https://www.geeksforgeeks.org/user/cemayank8/" target="_blank">
+                    <img src="https://img.icons8.com/?size=100&id=AbQBhN9v62Ob&format=png&color=000000" alt="GeeksforGeeks" width="50" height="50"/>
+                </a>
+            </td>
+            <td align="center" style="padding: 10px;">
+                <a href="https://www.hackerrank.com/dev_mayank8" target="_blank">
+                    <img src="https://img.icons8.com/?size=100&id=OUPsEPLKIebZ&format=png&color=000000" alt="HackerRank" width="50" height="50"/>
+                </a>
+            </td>
+            <td align="center" style="padding: 10px;">
+                <a href="https://www.linkedin.com/in/mayank08" target="_blank">
+                    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn" width="50" height="50"/>
+                </a>
+            </td>
+        </tr>
+    </table>
+</div>
 
 ---
 
