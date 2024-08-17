@@ -68,7 +68,7 @@
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="48" height="48"/> </a>
     <a href="https://www.linux.org/" target="_blank">  <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="Linux" width="48" height="48"/> </a>
     <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="48" height="48"/> </a>
-    <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="48" height="48"/> </a>
+    <a href="https://www.cplusplus.com" target="_blank"> <img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" alt="C++" width="48" height="48"/> </a>
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
